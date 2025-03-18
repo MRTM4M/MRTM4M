@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRTM4M
 - 👀 I’m interested in cyper security an programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & c++
 - 💞️ I’m looking to collaborate on none for now
 - 📫 How to reach me mention me here
 - 😄 Pronouns: i'm man
